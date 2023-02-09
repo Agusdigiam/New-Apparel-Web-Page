@@ -1,3 +1,6 @@
+/*Aqui comienza el codigo CSS*/
+
+
 body { 
     text-align: center;
     margin-left: auto;
@@ -39,7 +42,6 @@ h1 {
     background: #d3ffce ; color: black;
     border: solid #ffc0cb;
 }
-
 
 .footer {
     font-family: 'Courier New', Courier, monospace;
